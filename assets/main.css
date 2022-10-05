@@ -79,14 +79,13 @@ th,td{
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto Slab',serif;}
 .top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
-.center-left {font-size:2.00em; color: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px; text-shadow: 0px 0px 6px #000000;}
-/*.center-left {font-size:2.00em; color: #fafafa; line-height: 1.5em; width: auto; height: auto; padding: 0px 0px 0px 0px; text-align: center; position: absolute; top: 0px; text-shadow: 0px 0px 6px #000000;}*/
+.center-left {font-size:2.00em; color: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 136px 0 0 0; top: 0px; text-shadow: 0px 0px 6px #000000;}
 .bottom-right {font-size:2.33em; color: #fafafa; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
-.title1{color: #DA291C; text-shadow: 1px 1px 3px #c0c0c0;} 
-.title2{color: #046A38; text-shadow: 1px 1px 3px #c0c0c0;}
-.year{color: #FFE900; font-size:0.67em; font-weight: lighter;}
+.title1{color: #b2132e; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title2{color: #52739e; text-shadow: 1px 1px 3px #c0c0c0;}
+.year{color: #505050; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:800px;}
