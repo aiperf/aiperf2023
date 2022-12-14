@@ -1,0 +1,75 @@
+---------------------------------------------------------------------------
+                           Call for Contributions
+---------------------------------------------------------------------------
+
+                              AIPerf 2023
+   	1st Workshop on Artificial Intelligence for Performance 
+	Modeling, Prediction, and Control co-located with ICPE 2023
+
+                          April 15 or 16, 2023  
+                         Coimbra, Portugal
+
+               Web:  https://aiperf.github.io/aiperf2023/
+    Submission: https://easychair.org/conferences/?conf=icpe2023 
+
+----------------------------------------------------------------------------
+
+IMPORTANT DATES
+----------------------------
+
+Deadlines are at Midnight (AoE)
+
+Paper Submission: 					 January  13,  2023
+Paper Notification of Acceptance: 			February  13,  2023
+Camera-Ready Submission:				February  20,  2023
+
+SCOPE AND TOPICS
+------------------------------
+
+AIPerf intends to foster the usage of AI (such as probabilistic methods, machine learning, 
+and deep learning) to control, model, and predict the performance of computer systems. 
+The timeliness and relevance of this topic reflect current and future trends toward exploiting 
+AI-based approaches to deal with complex, large, and interconnected systems. However, 
+their usage for performance modeling and evaluation is still limited, and their benefit to the 
+performance engineering field remains unclear. 
+
+AIPerf 2023 proposes a meeting venue to promote the dissemination of research works that use 
+or study AI techniques for quantitative analysis of modern ICT systems and to engage academics 
+and practitioners of this field. The workshop focuses on presenting experiences and results of 
+applying AI/ML-based techniques to performance-related problems, as well as sharing performance 
+datasets and benchmarks with the community to facilitate the development of new and more accurate 
+learning procedures.
+
+Specifically, AIPerf 2023 welcomes submissions reporting methodological and practical research 
+that advances and promotes the usage of Artificial Intelligence for the performance evaluation 
+of ICT systems. The list of topics includes (but is not limited to):
+
+    • AI-based performance evaluation and tuning for ICT systems
+    • AI-based generation of performance models for ICT systems engineering
+    • Performance modeling of AI systems and frameworks
+    • Datasets and benchmarks for training and validating AI performance models
+    • Explainable and White-box AI techniques for performance engineering
+    • Heuristic and metaheuristic techniques for performance engineering
+    • AI models for performance anomaly detection, classification, root cause analysis and remediation
+    • AI models for performance tasks automation, including auto-scaling and self-optimization
+    • Human computer interfaces for AI based performance tasks
+
+AIPerf solicits two tracks of submission:
+
+    • Regular research papers (max 8 pages). Novel contributions that are fully 
+      validated and well positioned in the state-of-the-art.
+    • Empirical, experience, reproduction or case study papers (max 6 pages). 
+      Work-in-progress; Vision papers; New ideas that still need to be validated; 
+      Industrial case studies; Experiences (positive or negative) of using AI
+      for performance engineering.
+
+The workshop proceedings are published in ACM Digital Library as the ICPE2023 conference 
+companion post-proceedings. For more information visit: https://aiperf.github.io/aiperf2023/submission/
+
+ORGANIZING COMMITTEE
+--------------------
+Workshop Chairs
+    • Emilio Incerto, IMT School For Advanced Studies, Italy
+    • Marin Litoiu, Lassonde School of Engineering, York University, Canada
+    • Riccardo Pinciroli, Gran Sasso Science Institute, Italy
+To contact the chairs, you can email: aiperf2023@easychair.org
